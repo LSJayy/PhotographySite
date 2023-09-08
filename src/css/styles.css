@@ -29,6 +29,7 @@ body {
 }
 .slideshow-images {
     display: none;
+    object-fit: cover;
 }
   
 .fade {
